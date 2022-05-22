@@ -4,7 +4,7 @@ import {
   RecoilRoot,
 } from 'recoil'
 
-import TodoList from './TodoList';
+import TodoList from './AtomAndSelector/TodoList';
 
 
 function App() {
